@@ -20,3 +20,10 @@
 - כתובת לדף GitHub Pages: `https://USERNAME.github.io/AfekaJbareenTravelSites`
 
 תודה! זה פרויקט בסיסי וקוהרנטי ללימוד HTML/CSS. 
+# Web Development Homework 1
+
+Name: Omar Jbareen  
+Course: פיתוח בפלטפורמות WEB  
+Homework: Exercise 1
+
+Website URL:`(https://omarjbareen.github.io/AfekaJbareenWebHW1/)`
