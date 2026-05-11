@@ -1,0 +1,140 @@
+body {
+  font-family: Arial, sans-serif;
+  direction: ltr;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.page-top, .page-footer {
+  background-color: #d6e0f0;
+  padding: 16px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+body > .intro-block,
+body > .map-block,
+.content-block {
+  padding: 20px;
+}
+
+.menu-table {
+  margin: 16px auto;
+  border-collapse: collapse;
+}
+
+.menu-table td {
+  padding: 6px;
+}
+
+.menu-table a,
+.back-link {
+  text-decoration: none;
+  color: #1a3f7a;
+  padding: 10px 14px;
+  border: 1px solid #1a3f7a;
+  display: inline-block;
+}
+
+.menu-table a:hover,
+.back-link:hover {
+  background-color: #1a3f7a;
+  color: white;
+}
+
+.intro-block,
+.map-block,
+.content-block {
+  max-width: 700px;
+  margin: 0 auto 20px;
+  background-color: white;
+  padding: 12px;
+}
+
+.places-section {
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto 20px;
+  background-color: white;
+}
+
+.places-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.places-table td {
+  padding: 20px;
+  vertical-align: top;
+  border: 1px solid #ccc;
+}
+
+.visited-places, .wanted-places {
+  text-align: center;
+}
+
+.card {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+.card a {
+  text-decoration: none;
+  color: #1a3f7a;
+  font-weight: bold;
+}
+
+.card a:hover {
+  color: #003366;
+}
+
+
+.map-image {
+  width: 1448px;
+  height: 1086px;
+  display: block;
+  margin: 10px auto;
+  border: 1px solid #999999;
+}
+
+
+.map-note {
+  text-align: center;
+  color: #555;
+}
+
+
+
+.content-table td {
+  border: 1px solid #ccc;
+  padding: 12px;
+  vertical-align: top;
+}
+
+.image-cell img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.back-link {
+  margin-top: 16px;
+}
+
+.page-footer p {
+  margin: 0;
+  font-size: 14px;
+}
